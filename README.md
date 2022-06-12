@@ -7,13 +7,16 @@
 
 Following accessibility standards, 
 
+
 ## Description
 
 A complete refactor of Horiseon webpage code to commplain with accessibility standards and optimization for search engines.
 
+
 ## Getting Started
 
 ![alt text](https://brberis.github.io/hseon-refactor/src/assets/images/01-html-css-git-homework-demo.png)
+
 
 ### Improvements 
 
@@ -26,15 +29,24 @@ A complete refactor of Horiseon webpage code to commplain with accessibility sta
 * Commented code and styles.
 * CSS selectors and properties are consolidated and organized to follow semantic structure.
 
+
+### ToDo List 
+
+* SEO meta tags.
+* Responsible web design.
+
+
 ### Live Demo  
 
 [Horiseon Demo Website](https://brberis.github.io/hseon-refactor/src)
+
 
 ## Authors
 
 Contributors names:
 
 Cristobal A Barberis  
+
 
 ## Version History
 
