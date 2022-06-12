@@ -1,9 +1,7 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Forks][forks-shield]][forks-url]
+![alt text](https://img.shields.io/badge/ver.-0.1-green)
+![alt text](https://img.shields.io/badge/status-passing-green)
 
 # Horiseon Refactor
 
@@ -15,7 +13,7 @@ A complete refactor of Horiseon webpage code to commplain with accessibility sta
 
 ## Getting Started
 
-![alt text](https://brberis.github.io/hseon-refacto/src/assets/images/01-html-css-git-homework-demo.png)
+![alt text](https://brberis.github.io/hseon-refactor/src/assets/images/01-html-css-git-homework-demo.png)
 
 ### Improvements 
 
@@ -30,7 +28,7 @@ A complete refactor of Horiseon webpage code to commplain with accessibility sta
 
 ### Live Demo  
 
-[Horiseon Demo Website](https://brberis.github.io/hseon-refacto/src)
+[Horiseon Demo Website](https://brberis.github.io/hseon-refactor/src)
 
 ## Authors
 
@@ -42,7 +40,7 @@ Cristobal A Barberis
 
 * 0.1
     * Bug fixes and optimizations
-    * See [commit change]()
+    * See [insights](https://github.com/brberis/hseon-refactor/pulse)
 
 
 
