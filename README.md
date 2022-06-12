@@ -5,7 +5,7 @@
 
 # Horiseon Refactor
 
-Following accessibility standards 
+Following accessibility standards, 
 
 ## Description
 
@@ -22,7 +22,7 @@ A complete refactor of Horiseon webpage code to commplain with accessibility sta
 * Images with alt attributes for SEO and accessibility.
 * Heading in secuencial order.
 * Implementation of Favicon.
-* New descriptive title.
+* Descriptive title.
 * Commented code and styles.
 * CSS selectors and properties are consolidated and organized to follow semantic structure.
 
