@@ -51,7 +51,7 @@ Cristobal A Barberis
 ## Version History
 
 * 0.1
-    * Bug fixes and optimizations
+    * HTML and CSS refactored.
     * See [insights](https://github.com/brberis/hseon-refactor/pulse)
 
 
