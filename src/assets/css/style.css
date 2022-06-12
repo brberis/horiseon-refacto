@@ -7,6 +7,7 @@
 
 body {
     background-color: #d9dcd6;
+    max-width: 1280px;
 }
 
 a {
@@ -107,28 +108,36 @@ main {
     margin-left: 20px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* services start */
 .service {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    min-height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    overflow: auto;
 }
 
+.service-info {
+    float: left;
+    width: 60%;
+    text-align: left;
+}
+
+.text-mg-right {
+    margin-right: 25px;
+}
+
+.text-mg-left {
+    margin-left: 25px;
+}
+
+
 .service img {
-    max-height: 200px;
+    max-height: 100%;
+    width: 36%;
+    float: left;
 }
 
 .service h2 {
