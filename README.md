@@ -3,7 +3,7 @@
 ![alt text](https://img.shields.io/badge/ver.-0.1-green)
 ![alt text](https://img.shields.io/badge/status-passing-green)
 
-# Horiseon Refactor
+# Horiseon Website Refactor
 
 Following accessibility standards, 
 
